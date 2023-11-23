@@ -1,0 +1,1451 @@
+{
+    "ret": "0",
+    "statu_info": "succes",
+    "accountype": 3,
+    "sinfo": "",
+    "Live": [
+        {
+            "Category": "=未分组=",
+            "id": 1,
+            "name": "CCTV-1 综合",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 2,
+            "name": "CCTV-2 财经",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001220/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 3,
+            "name": "CCTV-3 综艺",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001186/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 4,
+            "name": "CCTV-4 中文国际",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001221/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 5,
+            "name": "CCTV-5 体育",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001187/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 6,
+            "name": "CCTV-5+ 体育赛事",
+            "httpurl": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 7,
+            "name": "CCTV-6 电影",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001188/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 8,
+            "name": "CCTV-7 国防军事",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001236/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 9,
+            "name": "CCTV-8 电视剧",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001189/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 10,
+            "name": "CCTV-9 纪录",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001237/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 11,
+            "name": "CCTV-10 科教",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001238/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 12,
+            "name": "CCTV-11 戏曲",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001309/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 13,
+            "name": "CCTV-12 社会与法",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001239/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 14,
+            "name": "CCTV-13 新闻",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001328/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 15,
+            "name": "CCTV-14 少儿",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001240/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 16,
+            "name": "CCTV-15 音乐",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001338/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 17,
+            "name": "CCTV-16 奥林匹克",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001258/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 18,
+            "name": "CCTV-17 农业农村",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001241/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 19,
+            "name": "CCTV-8K 超高清",
+            "httpurl": "http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 20,
+            "name": "CGTN英语",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001058/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 21,
+            "name": "半岛英语",
+            "httpurl": "https://live-hls-web-aje.getaj.net/AJE/01.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 22,
+            "name": "凤凰中文",
+            "httpurl": "http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 23,
+            "name": "凤凰资讯",
+            "httpurl": "http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 24,
+            "name": "凤凰香港",
+            "httpurl": "http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 25,
+            "name": "CHC动作电影",
+            "httpurl": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 26,
+            "name": "CHC家庭影院",
+            "httpurl": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 27,
+            "name": "CHC高清电影",
+            "httpurl": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 28,
+            "name": "内蒙古卫视",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001068/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 29,
+            "name": "北京卫视",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001029/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 30,
+            "name": "湖南卫视",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001026/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 31,
+            "name": "东方卫视",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001013/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 32,
+            "name": "四川卫视",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001130/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 33,
+            "name": "天津卫视",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001036/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 34,
+            "name": "安徽卫视",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001037/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 35,
+            "name": "山东卫视",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001028/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 36,
+            "name": "广东卫视",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001032/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 37,
+            "name": "广西卫视",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001224/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 38,
+            "name": "江苏卫视",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001033/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 39,
+            "name": "江西卫视",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001034/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 40,
+            "name": "河北卫视",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001229/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 41,
+            "name": "河南卫视",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001222/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 42,
+            "name": "浙江卫视",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001023/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 43,
+            "name": "海南卫视",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001183/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 44,
+            "name": "深圳卫视",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001030/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 45,
+            "name": "湖北卫视",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001027/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 46,
+            "name": "山西卫视",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001070/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 47,
+            "name": "东南卫视",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001201/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 48,
+            "name": "贵州卫视",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001184/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 49,
+            "name": "辽宁卫视",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001035/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 50,
+            "name": "重庆卫视",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001129/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 51,
+            "name": "黑龙江卫视",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001031/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 52,
+            "name": "宁夏卫视",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001074/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 53,
+            "name": "陕西卫视",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001067/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 54,
+            "name": "甘肃卫视",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001298/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 55,
+            "name": "吉林卫视",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001225/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 56,
+            "name": "云南卫视",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001223/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 57,
+            "name": "三沙卫视",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001185/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 58,
+            "name": "青海卫视",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001082/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 59,
+            "name": "新疆卫视",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001065/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 60,
+            "name": "西藏卫视",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001072/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 61,
+            "name": "兵团卫视",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001066/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 62,
+            "name": "厦门卫视",
+            "httpurl": "http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?fmmv6",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 63,
+            "name": "中国教育1台",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001020/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 64,
+            "name": "中国教育2台",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001226/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 65,
+            "name": "中国教育4台",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 66,
+            "name": "北京纪实科教",
+            "httpurl": "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 67,
+            "name": "卡酷少儿",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001245/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 68,
+            "name": "上海新闻综合",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001014/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 69,
+            "name": "上海都市",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001015/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 70,
+            "name": "上海ICS外语",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001128/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 71,
+            "name": "纪实人文",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001019/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 72,
+            "name": "生活时尚",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001199/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 73,
+            "name": "七彩戏剧",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001308/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 74,
+            "name": "第一财经",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001017/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 75,
+            "name": "上海教育",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001268/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 76,
+            "name": "五星体育",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 77,
+            "name": "东方影视",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001016/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 78,
+            "name": "东方财经",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001318/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 79,
+            "name": "欢笑剧场",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001193/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 80,
+            "name": "法治天地",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001195/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 81,
+            "name": "乐游",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001200/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 82,
+            "name": "都市剧场",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001203/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 83,
+            "name": "金色学堂",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001194/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 84,
+            "name": "哈哈炫动",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001232/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 85,
+            "name": "游戏风云",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001192/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 86,
+            "name": "浙江公共新闻",
+            "httpurl": "http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 87,
+            "name": "浙江国际",
+            "httpurl": "http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 88,
+            "name": "浙江少儿",
+            "httpurl": "http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 89,
+            "name": "浙江教科影视",
+            "httpurl": "http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 90,
+            "name": "浙江数码时代",
+            "httpurl": "http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 91,
+            "name": "浙江民生休闲",
+            "httpurl": "http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 92,
+            "name": "浙江经济生活",
+            "httpurl": "http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 93,
+            "name": "浙江钱江频道",
+            "httpurl": "http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 94,
+            "name": "海南少儿",
+            "httpurl": "http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?fmmv6",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 95,
+            "name": "海南文旅",
+            "httpurl": "http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000322/index.m3u8?fmmv6",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 96,
+            "name": "海南公共",
+            "httpurl": "http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000382/index.m3u8?fmmv6",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 97,
+            "name": "海南自贸",
+            "httpurl": "http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000320/index.m3u8?fmmv6",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 98,
+            "name": "金鹰纪实",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001230/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 99,
+            "name": "金鹰卡通",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001098/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 100,
+            "name": "茶友频道",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001234/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 101,
+            "name": "快乐垂钓",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001235/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 102,
+            "name": "嘉佳卡通",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001227/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 103,
+            "name": "兵器科技",
+            "httpurl": "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 104,
+            "name": "怀旧剧场",
+            "httpurl": "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 105,
+            "name": "世界地理",
+            "httpurl": "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 106,
+            "name": "文化精品",
+            "httpurl": "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 107,
+            "name": "央视台球",
+            "httpurl": "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 108,
+            "name": "央视高网",
+            "httpurl": "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 109,
+            "name": "风云剧场",
+            "httpurl": "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 110,
+            "name": "风云音乐",
+            "httpurl": "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 111,
+            "name": "第一剧场",
+            "httpurl": "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 112,
+            "name": "女性时尚",
+            "httpurl": "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 113,
+            "name": "风云足球",
+            "httpurl": "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 114,
+            "name": "电视指南",
+            "httpurl": "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 115,
+            "name": "求索动物",
+            "httpurl": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 116,
+            "name": "求索记录",
+            "httpurl": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 117,
+            "name": "求索科学",
+            "httpurl": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 118,
+            "name": "求索生活",
+            "httpurl": "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 119,
+            "name": "超级综艺",
+            "httpurl": "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226009/1.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 120,
+            "name": "超级体育",
+            "httpurl": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 121,
+            "name": "超级电影",
+            "httpurl": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 122,
+            "name": "超级电视剧",
+            "httpurl": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 123,
+            "name": "武博世界",
+            "httpurl": "http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw2554338791_49940138/ott.mobaibox.com/PLTV/3/224/3221227533/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 124,
+            "name": "中国功夫",
+            "httpurl": "http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw1934355864_2070028581/ott.mobaibox.com/PLTV/3/224/3221227530/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 125,
+            "name": "军旅剧场",
+            "httpurl": "http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw1807611386_-262631246/ott.mobaibox.com/PLTV/3/224/3221227603/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 126,
+            "name": "炫舞未来",
+            "httpurl": "http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/wh7f454c46tw2582593423_1721070986/ott.mobaibox.com/PLTV/3/224/3221227475/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 127,
+            "name": "潮妈辣婆",
+            "httpurl": "http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw1705588260_46164741/ott.mobaibox.com/PLTV/3/224/3221227527/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 128,
+            "name": "精品体育",
+            "httpurl": "http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/wh7f454c46tw2797725038_-2054878207/ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 129,
+            "name": "精品纪录",
+            "httpurl": "http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw2837435881_530071425/ott.mobaibox.com/PLTV/3/224/3221227547/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 130,
+            "name": "家庭剧场",
+            "httpurl": "http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw3441504651_1879058580/ott.mobaibox.com/PLTV/3/224/3221227600/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 131,
+            "name": "精品大剧",
+            "httpurl": "http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw2817459161_-1430429466/ott.mobaibox.com/PLTV/3/224/3221227618/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 132,
+            "name": "军事评论",
+            "httpurl": "http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw3373254713_-1111569189/ott.mobaibox.com/PLTV/3/224/3221227544/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 133,
+            "name": "明星大片",
+            "httpurl": "http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw2856695654_946966165/ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 134,
+            "name": "东北热剧",
+            "httpurl": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 135,
+            "name": "欢乐剧场",
+            "httpurl": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 136,
+            "name": "CGTN记录",
+            "httpurl": "https://livedoc.cgtn.com/500d/prog_index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 137,
+            "name": "CGTN俄语",
+            "httpurl": "https://liveru.cgtn.com/1000r/prog_index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 138,
+            "name": "CGTN法语",
+            "httpurl": "https://livefr.cgtn.com/1000f/prog_index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 139,
+            "name": "CGTN西语",
+            "httpurl": "https://livees.cgtn.com/1000e/prog_index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 140,
+            "name": "CGTN阿语",
+            "httpurl": "https://livear.cgtn.com/1000a/prog_index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 141,
+            "name": "家庭理财",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001278/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 142,
+            "name": "财富天下",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001219/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 143,
+            "name": "纯享超清",
+            "httpurl": "http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 144,
+            "name": "中国天气",
+            "httpurl": "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001102/index.m3u8",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        }
+    ],
+    "Category": [
+        "=未分组="
+    ]
+}
